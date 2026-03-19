@@ -1,3 +1,3 @@
 # Firstproject
-This is my first git repositiory
+This is my first git repositiory.
 Author--Sudha kumari
